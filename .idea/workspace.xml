@@ -6,12 +6,7 @@
       <change beforePath="$PROJECT_DIR$/awesome-cv.cls" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-cv.cls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume.log" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume/education.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/education.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume/experience.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/experience.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume/honors.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/honors.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume/presentation.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/presentation.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume/skills.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/skills.tex" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,7 +36,7 @@
           <entry key="png" value="1" />
           <entry key="py" value="1" />
           <entry key="sh" value="1" />
-          <entry key="sty" value="4" />
+          <entry key="sty" value="5" />
           <entry key="tex" value="9" />
           <entry key="yml" value="4" />
         </counts>
@@ -51,7 +46,7 @@
           <entry key="Apex" value="2" />
           <entry key="Bash" value="1" />
           <entry key="Image" value="1" />
-          <entry key="LaTeX file" value="10" />
+          <entry key="LaTeX file" value="11" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="Python" value="1" />
@@ -61,20 +56,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Makefile" value="21" />
-          <entry key="cls" value="51" />
+          <entry key="cls" value="53" />
           <entry key="fonts" value="1" />
           <entry key="log" value="3" />
           <entry key="py" value="81" />
           <entry key="sh" value="29" />
           <entry key="sty" value="11" />
-          <entry key="tex" value="2649" />
+          <entry key="tex" value="2711" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Apex" value="14" />
           <entry key="Bash" value="29" />
-          <entry key="LaTeX file" value="2697" />
+          <entry key="LaTeX file" value="2761" />
           <entry key="PLAIN_TEXT" value="25" />
           <entry key="Python" value="81" />
         </counts>
@@ -113,16 +108,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/resume/summary.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/resume.aux">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resume/skills.tex">
           <provider selected="true" editor-type-id="LaTeXFileEditor" />
         </entry>
@@ -133,7 +118,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/resume/honors.tex">
+        <entry file="file://$PROJECT_DIR$/fontawesome.sty">
           <provider selected="true" editor-type-id="LaTeXFileEditor" />
         </entry>
       </file>
@@ -166,6 +151,7 @@
       <find>cvsection</find>
       <find>\newcolumntype{K}[1]{&gt;{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}p{#1}}</find>
       <find>su,</find>
+      <find>cs</find>
       <find>cvpara</find>
     </findStrings>
     <dirStrings>
@@ -185,12 +171,12 @@
         <option value="$PROJECT_DIR$/Makefile" />
         <option value="$PROJECT_DIR$/fontawesome.sty" />
         <option value="$PROJECT_DIR$/runit.sh" />
-        <option value="$PROJECT_DIR$/awesome-cv.cls" />
         <option value="$PROJECT_DIR$/docs/resume/education.tex" />
         <option value="$PROJECT_DIR$/docs/resume/honors.tex" />
         <option value="$PROJECT_DIR$/docs/resume/presentation.tex" />
         <option value="$PROJECT_DIR$/docs/resume/skills.tex" />
         <option value="$PROJECT_DIR$/docs/resume.tex" />
+        <option value="$PROJECT_DIR$/awesome-cv.cls" />
         <option value="$PROJECT_DIR$/docs/resume/experience.tex" />
       </list>
     </option>
@@ -284,7 +270,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="23" width="1865" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25946242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -371,13 +356,6 @@
     <entry file="file://$PROJECT_DIR$/missfont.log">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/fontawesome.sty">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -399,9 +377,6 @@
     <entry file="file://$PROJECT_DIR$/docs/resume/writing.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/education.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume/skills.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
       <provider editor-type-id="text-editor" />
@@ -409,10 +384,29 @@
     <entry file="file://$PROJECT_DIR$/docs/resume.aux">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/presentation.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume.tex">
+      <provider editor-type-id="LaTeXFileEditor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fontawesome.sty">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume/summary.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/presentation.tex">
+    <entry file="file://$PROJECT_DIR$/docs/resume/education.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/awesome-cv.cls">
@@ -420,14 +414,6 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="496">
           <caret line="567" column="17" lean-forward="true" selection-start-line="567" selection-start-column="17" selection-end-line="567" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume.tex">
-      <provider editor-type-id="LaTeXFileEditor" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
         </state>
       </provider>
     </entry>
