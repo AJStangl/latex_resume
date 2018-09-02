@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5a12047-337d-4915-83e7-0f0ff2b6171a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/docs/resume.aux" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume.log" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resume.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume/experience.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/experience.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resume/skills.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/skills.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resume/summary.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/summary.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/runit.sh" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +21,11 @@
     <session id="-1613102435">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -33,18 +38,18 @@
           <entry key="md" value="1" />
           <entry key="png" value="1" />
           <entry key="py" value="1" />
-          <entry key="sh" value="1" />
+          <entry key="sh" value="2" />
           <entry key="sty" value="5" />
-          <entry key="tex" value="9" />
+          <entry key="tex" value="10" />
           <entry key="yml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Apex" value="2" />
-          <entry key="Bash" value="1" />
+          <entry key="Bash" value="2" />
           <entry key="Image" value="1" />
-          <entry key="LaTeX file" value="11" />
+          <entry key="LaTeX file" value="12" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="14" />
           <entry key="Python" value="1" />
@@ -58,16 +63,16 @@
           <entry key="fonts" value="1" />
           <entry key="log" value="3" />
           <entry key="py" value="81" />
-          <entry key="sh" value="29" />
+          <entry key="sh" value="131" />
           <entry key="sty" value="11" />
-          <entry key="tex" value="3686" />
+          <entry key="tex" value="5243" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Apex" value="14" />
-          <entry key="Bash" value="29" />
-          <entry key="LaTeX file" value="3736" />
+          <entry key="Bash" value="131" />
+          <entry key="LaTeX file" value="5293" />
           <entry key="PLAIN_TEXT" value="25" />
           <entry key="Python" value="81" />
         </counts>
@@ -79,34 +84,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resume.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
+            <state relative-caret-position="195">
               <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runit.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resume/writing.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resume/presentation.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/awesome-cv.cls">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8505">
+              <caret line="567" column="17" selection-start-line="567" selection-start-column="17" selection-end-line="567" selection-end-column="17" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resume/education.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resume/skills.tex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/resume/summary.tex">
           <provider selected="true" editor-type-id="LaTeXFileEditor" />
         </entry>
       </file>
@@ -168,13 +195,14 @@
         <option value="$PROJECT_DIR$/makesty.py" />
         <option value="$PROJECT_DIR$/Makefile" />
         <option value="$PROJECT_DIR$/fontawesome.sty" />
-        <option value="$PROJECT_DIR$/runit.sh" />
         <option value="$PROJECT_DIR$/docs/resume/education.tex" />
         <option value="$PROJECT_DIR$/docs/resume/honors.tex" />
         <option value="$PROJECT_DIR$/docs/resume/presentation.tex" />
-        <option value="$PROJECT_DIR$/docs/resume/skills.tex" />
         <option value="$PROJECT_DIR$/docs/resume.tex" />
         <option value="$PROJECT_DIR$/awesome-cv.cls" />
+        <option value="$PROJECT_DIR$/runit.sh" />
+        <option value="$PROJECT_DIR$/docs/resume/skills.tex" />
+        <option value="$PROJECT_DIR$/docs/resume/summary.tex" />
         <option value="$PROJECT_DIR$/docs/resume/experience.tex" />
       </list>
     </option>
@@ -185,7 +213,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="186" />
     <option name="y" value="28" />
     <option name="width" value="1364" />
@@ -223,6 +251,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
@@ -253,6 +282,18 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="runit.sh" type="BashConfigurationType" factoryName="Bash">
+      <module name="latex_resume" />
+      <option name="INTERPRETER_OPTIONS" value="bash" />
+      <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runit.sh" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -267,9 +308,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="23" width="1865" height="1057" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25946242" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26332796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Query Editor" order="3" />
@@ -288,7 +330,7 @@
       <window_info anchor="bottom" id="Log Manager" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Execute Anonymous" order="14" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="15" visible="true" weight="0.31813473" />
+      <window_info anchor="bottom" id="Terminal" order="15" weight="0.769863" />
       <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="17" weight="0.32969433" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -345,9 +387,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="46" column="45" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-          <folding>
-            <element signature="e#47#76#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -362,58 +401,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/runit.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume/honors.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/writing.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/skills.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume.aux">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/presentation.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume.tex">
+    <entry file="file://$PROJECT_DIR$/docs/resume/writing.tex">
+      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/presentation.tex">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awesome-cv.cls">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        <state relative-caret-position="8505">
+          <caret line="567" column="17" selection-start-line="567" selection-start-column="17" selection-end-line="567" selection-end-column="17" />
         </state>
       </provider>
+      <provider editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/education.tex">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="LaTeXFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/fontawesome.sty">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
       <provider editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+      <provider editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runit.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/skills.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+      <provider editor-type-id="LaTeXFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume/summary.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/education.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/awesome-cv.cls">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="567" column="17" lean-forward="true" selection-start-line="567" selection-start-column="17" selection-end-line="567" selection-end-column="17" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume/experience.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
