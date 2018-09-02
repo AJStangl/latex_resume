@@ -4,11 +4,10 @@
     <list default="true" id="d5a12047-337d-4915-83e7-0f0ff2b6171a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume.log" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resume.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume/experience.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/experience.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume/skills.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/skills.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume/summary.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/summary.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/runit.sh" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,7 +20,7 @@
     <session id="-1613102435">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
@@ -65,14 +64,14 @@
           <entry key="py" value="81" />
           <entry key="sh" value="131" />
           <entry key="sty" value="11" />
-          <entry key="tex" value="5243" />
+          <entry key="tex" value="5999" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Apex" value="14" />
           <entry key="Bash" value="131" />
-          <entry key="LaTeX file" value="5293" />
+          <entry key="LaTeX file" value="6049" />
           <entry key="PLAIN_TEXT" value="25" />
           <entry key="Python" value="81" />
         </counts>
@@ -84,8 +83,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resume.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+            <state relative-caret-position="105">
+              <caret line="57" column="46" lean-forward="true" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -126,8 +125,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resume/skills.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="282">
+              <caret line="42" column="68" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
+              <folding>
+                <element signature="e#381#906#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -178,6 +180,7 @@
       <find>su,</find>
       <find>cs</find>
       <find>cvpara</find>
+      <find>communicate</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/docs</dir>
@@ -198,11 +201,11 @@
         <option value="$PROJECT_DIR$/docs/resume/education.tex" />
         <option value="$PROJECT_DIR$/docs/resume/honors.tex" />
         <option value="$PROJECT_DIR$/docs/resume/presentation.tex" />
-        <option value="$PROJECT_DIR$/docs/resume.tex" />
         <option value="$PROJECT_DIR$/awesome-cv.cls" />
         <option value="$PROJECT_DIR$/runit.sh" />
-        <option value="$PROJECT_DIR$/docs/resume/skills.tex" />
         <option value="$PROJECT_DIR$/docs/resume/summary.tex" />
+        <option value="$PROJECT_DIR$/docs/resume.tex" />
+        <option value="$PROJECT_DIR$/docs/resume/skills.tex" />
         <option value="$PROJECT_DIR$/docs/resume/experience.tex" />
       </list>
     </option>
@@ -309,9 +312,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26332796" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Query Editor" order="3" />
@@ -330,7 +332,7 @@
       <window_info anchor="bottom" id="Log Manager" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Execute Anonymous" order="14" />
-      <window_info anchor="bottom" id="Terminal" order="15" weight="0.769863" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="15" visible="true" weight="0.5410959" />
       <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="17" weight="0.32969433" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -435,14 +437,6 @@
       </provider>
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-        </state>
-      </provider>
-      <provider editor-type-id="LaTeXFileEditor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/runit.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -450,16 +444,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/skills.tex">
+    <entry file="file://$PROJECT_DIR$/docs/resume/summary.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="57" column="46" lean-forward="true" selection-start-line="57" selection-start-column="46" selection-end-line="57" selection-end-column="46" />
         </state>
       </provider>
       <provider editor-type-id="LaTeXFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/summary.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    <entry file="file://$PROJECT_DIR$/docs/resume/skills.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="42" column="68" selection-start-line="42" selection-start-column="68" selection-end-line="42" selection-end-column="68" />
+          <folding>
+            <element signature="e#381#906#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="LaTeXFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume/experience.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
