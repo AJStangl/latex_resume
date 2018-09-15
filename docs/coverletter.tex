@@ -1,0 +1,128 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for CV/Resume
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+% and heavily modified by AJ Stangl
+% Original Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, letterpaper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+%\colorlet{awesome}{awesome-darknight}
+% Uncomment if you would like to specify your own color
+ \definecolor{awesome}{HTML}{000000}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{false}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+\name{Alfred}{Stangl}
+\position{Software Engineer{\enskip\cdotp\enskip}Bioinformatics}
+\address{2225 Lamley St, Baltimore, MD, 21231}
+
+\mobile{(520)331-8386}
+\email{ajstangl@gmail.com}
+\github{AJStangl}
+
+
+
+%-------------------------------------------------------------------------------
+%	LETTER INFORMATION
+%	All of the below lines must be filled out
+%-------------------------------------------------------------------------------
+% The company being applied to
+\recipient
+  {The Center for Inherited Disease Research}
+  {Johns Hopkins University\\1812 Ashland Ave\\Baltimore, MD 21205}
+% The date on the letter, default is the date of compilation
+\letterdate{\today}
+% The title of the letter
+\lettertitle{Job Application for Software Engineer}
+% How the letter is opened
+\letteropening{Dear Mr. Sean Griffith,}
+% How the letter is closed
+\letterclosing{Sincerely,}
+% Any enclosures with the letter
+\letterenclosure[Attached]{Resume}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[L]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {Alfred J. Stangl~~~·~~~Cover Letter}
+  {}
+
+% Print the title with above letter informations
+\makelettertitle
+
+%-------------------------------------------------------------------------------
+%	LETTER CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvletter}
+
+%\lettersection{About Me}
+As a molecular biologist and software engineer my passion is centered around transforming genomic data into information that improves patient outcomes. I came across the job listing for software engineer after search through JHU and after reading through your mission, technology, and services you offer I'm confident that I can add value to the software application development team.
+
+%\lettersection{Why Me?}
+In my capacity as a bioinformatics software engineer I have been developing software and workflows for the analysis next-generation sequencing technology in CLIA and FDA regulated environments. In addition to leading efforts for analytical pipelines; I have acted in roles that require a knowledge of workflows in LIMs, database integrations and queries, and the development of software that produce client facing reports.
+\begin{itemize}
+  \item Development of software capable of handling NGS data from Plasma and FFPE Tissue at extreme coverages
+  \item Implimentation and analysis for protein and DNA microarray technologies
+  \item Highly familiar working with LIMs and databases
+  \item Excellent technical documentation skills and ability to mentor
+  \item Trained in software design, lifecycle, and design control
+\end{itemize}
+A major strength I would bring to CIDR is my direct experience working as a bioinformatic software engineer where the environment is under design control delivery of well tested production ready code is the expectation. Pairing my current experience with my prior experience as a wet lab scientist working directly with microarray and NGS technology is what sets me apart and why I believe I would be an excellent fit for your position.
+%\lettersection{Next Steps}
+
+I welcome the opportunity to speak with you and your team regarding how my experience and background makes me an excellent fit for the position and look forward to hearing from you soon. Thank you for your time and consideration.
+
+\end{cvletter}
+
+
+%-------------------------------------------------------------------------------
+% Print the signature and enclosures with above letter informations
+\makeletterclosing
+
+\end{document}

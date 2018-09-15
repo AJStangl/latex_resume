@@ -9,5 +9,8 @@ RESUME_SRCS = $(shell find $(RESUME_DIR) -name '*.tex')
 resume.pdf: $(EXAMPLES_DIR)/resume.tex $(RESUME_SRCS)
 	$(CC) -output-directory=$(EXAMPLES_DIR) -no-file-line-error $<
 
+cover.pdf: $(EXAMPLES_DIR)/coverletter.tex $(RESUME_SRCS)
+	$(CC) -output-directory=$(EXAMPLES_DIR) -no-file-line-error $<
+
 clean:
 	rm -rf $(EXAMPLES_DIR)/*.pdf
