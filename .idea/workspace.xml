@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5a12047-337d-4915-83e7-0f0ff2b6171a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/coverletter.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/resume/experience_bi.tex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/resume/experience_ds.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resume/experience_lo.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resume/skills_lo.tex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/resume/summary_lo.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/coverletter.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/coverletter.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume.log" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume/experience.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/experience.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume/skills.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/skills.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/resume/skills_bi.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/skills_bi.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume/summary.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/summary.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/resume/summary_bi.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/summary_bi.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runit.sh" beforeDir="false" afterPath="$PROJECT_DIR$/runit.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/resume/skills_ds.tex" beforeDir="false" afterPath="$PROJECT_DIR$/docs/resume/skills_ds.tex" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +44,7 @@
           <entry key="py" value="1" />
           <entry key="sh" value="4" />
           <entry key="sty" value="5" />
-          <entry key="tex" value="25" />
+          <entry key="tex" value="40" />
           <entry key="yml" value="4" />
         </counts>
       </usages-collector>
@@ -57,7 +53,7 @@
           <entry key="Apex" value="2" />
           <entry key="Bash" value="4" />
           <entry key="Image" value="1" />
-          <entry key="LaTeX file" value="28" />
+          <entry key="LaTeX file" value="43" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="16" />
           <entry key="Python" value="1" />
@@ -73,14 +69,14 @@
           <entry key="py" value="81" />
           <entry key="sh" value="546" />
           <entry key="sty" value="11" />
-          <entry key="tex" value="8488" />
+          <entry key="tex" value="8868" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Apex" value="14" />
           <entry key="Bash" value="546" />
-          <entry key="LaTeX file" value="8538" />
+          <entry key="LaTeX file" value="8918" />
           <entry key="PLAIN_TEXT" value="51" />
           <entry key="Python" value="81" />
         </counts>
@@ -89,57 +85,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/resume.tex">
           <provider selected="true" editor-type-id="LaTeXFileEditor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/coverletter.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/resume/experience_bi.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/resume/skills.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/awesome-cv.cls">
+        <entry file="file://$PROJECT_DIR$/docs/resume/experience_lo.tex">
           <provider selected="true" editor-type-id="LaTeXFileEditor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/resume/experience_ds.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/resume/summary_bi.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/runit.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/resume/skills_bi.tex">
-          <provider selected="true" editor-type-id="LaTeXFileEditor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/resume/summary.tex">
           <provider selected="true" editor-type-id="LaTeXFileEditor" />
         </entry>
       </file>
@@ -177,7 +134,11 @@
       <find>communicate</find>
       <find>Life</find>
       <find>cvletter</find>
+      <find>•</find>
     </findStrings>
+    <replaceStrings>
+      <replace>\item{</replace>
+    </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/docs</dir>
     </dirStrings>
@@ -201,15 +162,18 @@
         <option value="$PROJECT_DIR$/docs/resume/summary.tex" />
         <option value="$PROJECT_DIR$/docs/resume/summary_ds.tex" />
         <option value="$PROJECT_DIR$/docs/resume/skills.tex" />
-        <option value="$PROJECT_DIR$/docs/resume/skills_ds.tex" />
         <option value="$PROJECT_DIR$/docs/resume/experience_ds.tex" />
-        <option value="$PROJECT_DIR$/docs/resume.tex" />
         <option value="$PROJECT_DIR$/Makefile" />
-        <option value="$PROJECT_DIR$/docs/coverletter.tex" />
         <option value="$PROJECT_DIR$/docs/resume/summary_bi.tex" />
-        <option value="$PROJECT_DIR$/docs/resume/skills_bi.tex" />
         <option value="$PROJECT_DIR$/runit.sh" />
+        <option value="$PROJECT_DIR$/docs/coverletter.tex" />
+        <option value="$PROJECT_DIR$/docs/resume/skills_bi.tex" />
+        <option value="$PROJECT_DIR$/docs/resume/skills_ds.tex" />
+        <option value="$PROJECT_DIR$/docs/resume/summary_lo.tex" />
         <option value="$PROJECT_DIR$/docs/resume/experience_bi.tex" />
+        <option value="$PROJECT_DIR$/docs/resume/skills_lo.tex" />
+        <option value="$PROJECT_DIR$/docs/resume/experience_lo.tex" />
+        <option value="$PROJECT_DIR$/docs/resume.tex" />
       </list>
     </option>
   </component>
@@ -219,10 +183,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="280" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="464" />
+    <option name="y" value="48" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="713" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -313,10 +278,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="993" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="713" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19488817" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27705976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Query Editor" order="3" />
@@ -335,7 +299,7 @@
       <window_info anchor="bottom" id="Log Manager" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Execute Anonymous" order="14" />
-      <window_info anchor="bottom" id="Terminal" order="15" weight="0.5410959" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="15" visible="true" weight="0.26086956" />
       <window_info anchor="bottom" id="Event Log" order="16" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="17" weight="0.32969433" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -433,9 +397,6 @@
     <entry file="file://$PROJECT_DIR$/docs/resume/summary_ds.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/skills_ds.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume/experience.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
       <provider editor-type-id="text-editor">
@@ -447,9 +408,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/experience_ds.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume.aux">
       <provider selected="true" editor-type-id="text-editor" />
@@ -477,20 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/coverletter.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/skills_bi.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/summary.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/runit.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -501,6 +445,38 @@
     <entry file="file://$PROJECT_DIR$/docs/resume/summary_bi.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/coverletter.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/summary.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/summary_lo.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/skills_bi.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/skills_lo.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/skills_ds.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/experience_ds.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/experience_bi.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/resume/experience_lo.tex">
+      <provider selected="true" editor-type-id="LaTeXFileEditor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/resume.tex">
       <provider selected="true" editor-type-id="LaTeXFileEditor" />
       <provider editor-type-id="text-editor">
@@ -508,9 +484,6 @@
           <caret line="58" column="26" lean-forward="true" selection-start-line="58" selection-start-column="26" selection-end-line="58" selection-end-column="26" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/resume/experience_bi.tex">
-      <provider selected="true" editor-type-id="LaTeXFileEditor" />
     </entry>
   </component>
 </project>
