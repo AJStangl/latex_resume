@@ -1,15 +1,16 @@
 .PHONY: examples
 
 CC = xelatex
-EXAMPLES_DIR = docs
+DOCUMENT_DIRECTORY = docs
 RESUME_DIR = docs/resume
 CV_DIR = examples/cv
+
 RESUME_SRCS = $(shell find $(RESUME_DIR) -name '*.tex')
 
-resume.pdf: $(EXAMPLES_DIR)/resume.tex $(RESUME_SRCS)
+resume.pdf: $(DOCUMENT_DIRECTORY)/resume.tex $(RESUME_SRCS)
 	$(CC) -output-directory=$(EXAMPLES_DIR) -no-file-line-error $<
 
-cover.pdf: $(EXAMPLES_DIR)/coverletter.tex $(RESUME_SRCS)
+cover.pdf: $(DOCUMENT_DIRECTORY)/coverletter.tex $(RESUME_SRCS)
 	$(CC) -output-directory=$(EXAMPLES_DIR) -no-file-line-error $<
 
 clean:
